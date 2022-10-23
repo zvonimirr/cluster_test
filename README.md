@@ -8,7 +8,7 @@ To install dependencies, run:
 ```bash
 mix deps.get
 ```
-**Don't forget to add your nodes to the list in `config.exs`**
+**Don't forget to add your nodes to the list in the libcluster toplogy config**
 
 **Nodes are connected automatically on runtime.**
 
